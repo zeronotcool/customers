@@ -1,6 +1,5 @@
 {
   "name": "customers",
-  "type": "module",
   "version": "1.0.0",
   "description": "test node.js app",
   "main": "src/app.js",
